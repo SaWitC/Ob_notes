@@ -1,0 +1,2 @@
+#azure
+Hight avilibility

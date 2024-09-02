@@ -1,0 +1,93 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:h1",
+      "color": {
+        "a": 1,
+        "rgb": 15256593
+      }
+    },
+    {
+      "query": "tag:#angular file:REP_",
+      "color": {
+        "a": 1,
+        "rgb": 15880768
+      }
+    },
+    {
+      "query": "tag:#angular  ",
+      "color": {
+        "a": 1,
+        "rgb": 13902113
+      }
+    },
+    {
+      "query": "tag:#paterns file:NE_",
+      "color": {
+        "a": 1,
+        "rgb": 3240497
+      }
+    },
+    {
+      "query": "tag:#paterns",
+      "color": {
+        "a": 1,
+        "rgb": 3991065
+      }
+    },
+    {
+      "query": "tag:#azure file:IP_",
+      "color": {
+        "a": 1,
+        "rgb": 3109266
+      }
+    },
+    {
+      "query": "tag:#azure",
+      "color": {
+        "a": 1,
+        "rgb": 2077177
+      }
+    },
+    {
+      "query": "tag:#net",
+      "color": {
+        "a": 1,
+        "rgb": 10887656
+      }
+    },
+    {
+      "query": "tag:cs",
+      "color": {
+        "a": 1,
+        "rgb": 2835914
+      }
+    },
+    {
+      "query": "tag:#frontend  ",
+      "color": {
+        "a": 1,
+        "rgb": 16735283
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 2.37135416666667,
+  "lineSizeMultiplier": 3.03489583333333,
+  "collapse-forces": true,
+  "centerStrength": 0.807291666666667,
+  "repelStrength": 20,
+  "linkStrength": 0.875,
+  "linkDistance": 30,
+  "scale": 0.32133638605036086,
+  "close": false
+}

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "f4518811db369985",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfceec73f253201f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "766d8e092d4f320b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa0b11091f6a6db4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a095e874e006e42e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faf03ee23085570a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa63c6de313638c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb9d7a228773723d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6a687d883729d307",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0d050b3f4c74e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56e2dfa6b1cc53da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cae9db76e4eee419",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa529af06894e827",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14111c7e21925179",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f40b08d36090cdb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "766d8e092d4f320b",
+  "lastOpenFiles": [
+    "Questions (3).rar",
+    "ntitled.md",
+    "work/Untitled.canvas",
+    "work",
+    "Knolege/Education/Frontend/Angular/RXJS/RXJS.md",
+    "Knolege/Education/Frontend/Angular/RXJS/Cold and hot observables.md",
+    "Knolege/Education/Azure/Az-900/Pages/9 Resources, Resource Group, Resource manager IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/7 .Geograpy IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/6 Iaas SaaS PaaS IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/5 cloud types IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/3 Principle of economies of scale IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/2 Cloud computing and Vocabilary IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/15 azure big data IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/14 Azure IoT (Internet of Things) IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/13. azure Marketplace IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/10 Compute services VMs VM scale set, App Service, Functions, ACI, AKS , Azure IP_.md",
+    "Knolege/Education/Azure/Az-900/Pages/1 Base termins IP_.md",
+    "Knolege/Education/Azure/Az-900/Canvas/Geography.canvas",
+    "Knolege/Education/Frontend/Common/Storages.md",
+    "Knolege/Education/Frontend/Angular/RXJS",
+    "Knolege/Education/Frontend/Angular/On push ChangeDetection REP_.md",
+    "Knolege/Education/Frontend/Angular/DI Tokens NE_.md",
+    "Knolege/Education/Frontend/Angular/Default ChangeDetection REP_.md",
+    "Knolege/Education/Frontend/Angular/Change detection REP_.md",
+    "Knolege/Education/Frontend/Angular/Angular DI IP_.md",
+    "Knolege/Education/DotNet/DOT NET CS/Polly (package) IP_.md",
+    "Knolege/Education/DotNet/DOT NET CS/GC Modes DO_.md",
+    "Knolege/Education/DotNet/DOT NET CS/GC IP_.md",
+    "Knolege/Education/DotNet/DOT NET CS/EF-SQL DO_.md",
+    "Knolege/Education/DotNet/CS/LINQ Operators.md",
+    "Knolege/Education/Azure/Az-900/Pages",
+    "Knolege/Education/Azure/Az-900/Canvas",
+    "Knolege/Education/Azure/Az-204/Pages",
+    "Knolege/Education/Frontend/Common",
+    "Knolege/Education/Frontend/Angular",
+    "Knolege/Education/DotNet/DOT NET CS",
+    "Knolege/Education/DotNet/CS",
+    "Knolege/Education/Common/Protocols",
+    "Knolege/cache/Pasted image 20240816092629.png",
+    "Knolege/cache/Pasted image 20240805103530.png",
+    "Knolege/cache/Pasted image 20240709082916.png",
+    "Knolege/cache/Pasted image 20240709081525.png",
+    "Knolege/cache/Pasted image 20240708142407.png",
+    "Knolege/cache/Pasted image 20240708134201.png",
+    "Knolege/cache/Pasted image 20240708133746.png",
+    "Knolege/cache/Pasted image 20240708133316.png",
+    "Knolege/cache/Pasted image 20240708133157.png",
+    "Knolege/cache/Pasted image 20240708132920.png",
+    "Refactoring/Untitled.canvas",
+    "Refactoring_Forwarding/Relationship.canvas",
+    "Refactoring_Forwarding/Files structure.canvas",
+    "Untitled.canvas",
+    "Work/Untitled 2.canvas",
+    "Work/Untitled 1.canvas",
+    "Work/Untitled.canvas",
+    "Knolege/Azure/Untitled.canvas"
+  ]
+}
